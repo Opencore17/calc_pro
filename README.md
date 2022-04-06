@@ -22,3 +22,4 @@ This code is available for general use.
 Both versions of the code may be downloaded.
 The C++ version is also available in unix executable format.
 I can be contacted through the discord account eternalnight#9633.
+Thank you!
