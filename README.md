@@ -21,5 +21,6 @@ The C++ version also uses the Cmath library to do equations.
 This code is available for general use.
 Both versions of the code may be downloaded.
 The C++ version is also available in unix executable format.
+This project is constantly being updated and more calculation types will be added in the future.
 I can be contacted through the discord account eternalnight#9633.
 Thank you!
