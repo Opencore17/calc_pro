@@ -20,5 +20,5 @@ The C++ version also uses the Cmath library to do equations.
 ## How to Use
 This code is available for general use.
 Both versions of the code may be downloaded.
-The C++ version is also available in executable format.
+The C++ version is also available in unix executable format.
 I can be contacted through the discord account eternalnight#9633.
